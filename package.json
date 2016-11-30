@@ -1,0 +1,16 @@
+{
+	"name": "babel",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"watson-developer-cloud": "latest",
+		"readline": "latest"
+	},
+	"repository": {},
+	"engines": {
+		"node": "4.x"
+	} 
+}
