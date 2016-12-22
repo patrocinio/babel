@@ -1,1 +1,2 @@
-docker build -t babel .
+docker build -t babel-translate translate
+docker build -t babel-speech speech
